@@ -1,0 +1,48 @@
+.basicform {
+    width: 600px;
+    background-color: #ccc;
+    margin: auto;
+}
+.header {
+    width: 100%;
+    padding: 10px 0px;
+    font-size: 20px;
+    background-color: #f44336;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+.info {
+    color: #5f36f4;
+}
+.select {
+    color: #f44336;
+}
+.btn {
+    padding: 4px 18px;
+    cursor: pointer;
+}
+.submit {
+    text-align: center;
+    transform: translateX(-130px);
+}
+.form-submit {
+    background-color: #c3eb57;
+    text-align: left;
+    max-width: 600px;
+    margin: auto;
+}
+.form-submit .heading {
+    background-color: aqua;
+    color: #5f36f4;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding: 10px 5px;
+    margin: 5px;
+}
+.form-submit p {
+    color: rgb(63, 31, 207);
+    font-size: 15px;
+    line-height: 1.5;
+
+}
